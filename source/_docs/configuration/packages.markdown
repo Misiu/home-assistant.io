@@ -68,7 +68,7 @@ There are some rules for packages that will be merged:
     ```
 3. Any integration that is not a platform [2], or dictionaries with Entity ID keys [3] can only be merged if its keys, except those for lists, are solely defined once.
 
-<div class='note tip'>
+<div class='note'>
 Components inside packages can only specify platform entries using configuration style 1, where all the platforms are grouped under the integration name.
 </div>
 

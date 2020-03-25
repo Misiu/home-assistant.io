@@ -23,7 +23,7 @@ Inside your configuration folder is the file `configuration.yaml`. This is the m
 
 If you run into trouble while configuring Home Assistant, have a look at the [configuration troubleshooting page](/getting-started/troubleshooting-configuration/) and at the [`configuration.yaml` examples](/cookbook/#example-configurationyaml).
 
-<div class='note tip'>
+<div class='note'>
 
   Test any changes to your configuration files from the command line with `hass --script check_config`. This script allows you to test changes without the need to restart Home Assistant. Remember to run this as the user you run Home Assistant as.
 
